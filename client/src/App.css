@@ -1,0 +1,27 @@
+.bg-blue {
+  background-color: #0e4faa !important;
+}
+
+.bg-blue-secondary {
+  background-color: #2264bf !important;
+}
+
+.btn-delete {
+  background-color: #640b1a !important;
+}
+
+.btn-delete:hover {
+  background-color: #d90429 !important;
+}
+
+.btn-done {
+  background-color: rgb(16, 97, 89) !important;
+}
+
+.btn-done:hover {
+  background-color: #43aa8b !important;
+}
+
+button:focus {
+  box-shadow: none !important;
+}
